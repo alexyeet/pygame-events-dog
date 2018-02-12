@@ -1,0 +1,4 @@
+instructions: 
+b- bark 
+arrow keys- move dog
+space bar- lightning
